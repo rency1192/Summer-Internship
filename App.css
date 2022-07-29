@@ -1,0 +1,7 @@
+.App_body
+{
+    height: 98vh;
+    width: 98vw;
+    background-color:#ededed;
+    display: flex;
+}

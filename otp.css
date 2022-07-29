@@ -1,0 +1,13 @@
+
+body { background:whitesmoke; }
+body:after {
+    content:"";
+    background:#24A67D;
+    position:fixed;
+    top:0;
+    bottom:75%;
+    right:0;
+    left:0;
+    content:" ";
+    z-index:-1;
+}
